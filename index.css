@@ -20,6 +20,10 @@ footer {
     right: 10px;
     bottom: 10px;
     opacity: 85%;
+    
+}
+footer:hover{
+    opacity: 60%;
 }
 .container {
     display: flex;
