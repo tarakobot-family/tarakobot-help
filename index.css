@@ -1,6 +1,7 @@
 body{
     text-align: center;
     margin: 0px;
+    font-size: 18px;
 }
 header {
     position: fixed;
