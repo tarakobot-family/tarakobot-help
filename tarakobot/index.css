@@ -5,6 +5,9 @@ a{
 a:hover{
     color: #41d8d8;
 }
+a.botwotuika:hover{
+    opacity: 60%;
+}
 a.page-contents{
     color: #000;
     text-decoration:none;
