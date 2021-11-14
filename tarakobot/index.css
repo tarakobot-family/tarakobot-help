@@ -1,8 +1,17 @@
+
 a{
     color: #19a1f0;
 }
 a:hover{
     color: #41d8d8;
+}
+a.page-contents{
+    color: #000;
+    text-decoration:none;
+}
+a.page-contents:hover{
+    color: rgb(192, 192, 192);
+    text-decoration:none;
 }
 body{
     text-align: left;
